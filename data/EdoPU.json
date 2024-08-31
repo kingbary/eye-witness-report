@@ -436,34 +436,6 @@
 }]
 }
 ,
-{
-  "state":[{
-  "Edo":[{
-    "LGA":[{
-      "Egor":[{
-        "Ward":[{
-          "Uselu-ii":[{
-            "Polling unit": [
-              "Uselu-sec-school-uselu-ii-i", "Uselu-sec-school-uselu-ii-ii",
-              "Uselu-sec-school-uselu-ii-iii", "Uselu-sec-school-uselu-ii-iv",
-              "Uselu-sec-school-uselu-ii-v", "Uselu-sec-school-uselu-ii-vi",
-              "Uselu-sec-school-uselu-ii-vii", "Golden-touch-sec-sch-edaiken-i",
-              "Golden-touch-sec-sch-edaiken-ii", "Golden-touch-sec-sch-edaiken-iii",
-              "Golden-touch-sec-sch-edaiken-iv", "Edaiken-primary-school-edaiken-v",
-              "Edaiken-primary-school-edaiken-i", "Edaiken-primary-school-edaiken-ii",
-              "Edaiken-primary-school-edaiken-iii", "Edaiken-primary-school-edaiken-iv",
-              "Edaiken-primary-school-edaiken-v", "Universal-comm-hall-public-field-edaiken-i",
-              "Universal-comm-hall-public-field-edaiken-ii"
-            ]
-          }
-          ]
-        }]
-      }]
-    }]
-  }]
-}]
-}
-,
 { 
 "state":[{
   "Edo":[{
