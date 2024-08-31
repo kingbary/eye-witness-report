@@ -492,5 +492,121 @@
   }]
 }]
 }
+,
+{ 
+"state":[{
+  "Edo":[{
+    "LGA":[{
+      "Esan Central":[{
+        "Ward": {
+            "Ewu-ii": {
+                "Polling unit": [
+                    "Idunwele-pry-sch-idunwele-i",
+                    "Idunwele-pry-sch-idunwele-ii",
+                    "Idunwele-pry-sch-idunwele-iii",
+                    "Idunwele-town-hall-pry-sch-idunwele",
+                    "Idunwele-town-hall-idunwele",
+                    "Oghodogbor-camp-oghodogbor",
+                    "Ihenwen-town-hall-ihenwen",
+                    "Ukhiodo-pry-sch-ukhiodo",
+                    "Eguare-pry-sch-eguare-i"
+                ]
+            }
+        }
+    }    
+    ]
+    }]
+  }]
+}]
+}
+,
+{ 
+"state":[{
+  "Edo":[{
+    "LGA":[{
+      "Esan Central":[{
+        "Ward": {
+            "Opoji": {
+                "Polling unit": [
+                    "Eguare-pry-sch-eguare-ii",
+                    "Euare-grammar-sch-opoji",
+                    "Iki-pry-sch-iki-i",
+                    "Iki-pry-sch-iki-ii",
+                    "Oghagbo-pry-school-oghagbo-i",
+                    "Oghagbo-pry-school-oghagbo-ii",
+                    "Okhore-pry-sch-okhore",
+                    "Ikienwanlen-pry-sch-ikienwanlen",
+                    "Ujosanlen-pry-sch-ujosanlen",
+                    "Opoji-sec-sch-okhore-opoji",
+                    "Ikiewalen-town-hall-opoji"
+                ]
+            }
+        }
+    }            
+    ]
+    }]
+  }]
+}]
+}
+,
+{ 
+"state":[{
+  "Edo":[{
+    "LGA":[{
+      "Esan Central":[{
+        "Ward": {
+            "Ikekato": {
+                "Polling unit": [
+                    "Eko-iyobhebhe-pry-school-eko-iyobhebhe",
+                    "Agwa-pry-school-agwa",
+                    "Udowo-primary-school-udowo-i",
+                    "Udowo-primary-school-udowo-ii",
+                    "Idinegbon-pry-sch-idinegbon-i",
+                    "Idinegbon-pry-sch-idinegbon-ii",
+                    "Ikekato-sec-sch-ikekato",
+                    "Ugbokhare-pry-sch-ugbokhare-i",
+                    "Ugbokhare-pry-sch-ugbokhare-ii"
+                ]
+            }
+        }
+    }        
+    ]
+    }]
+  }]
+}]
+}
+,
+{ 
+"state":[{
+  "Edo":[{
+    "LGA":[{
+      "Esan Central":[{
+        "Ward": {
+            "Otoruwo-i": {
+                "Polling unit": [
+                    "Akho-pry-school-akho-i",
+                    "Akho-pry-school-akho-ii",
+                    "Eguare-pry-school-eguare-i",
+                    "Eguare-pry-school-eguare-ii",
+                    "Eguare-pry-school-eguare-iii",
+                    "Usenu-pry-school-usenu",
+                    "Ididigba-pry-school-ididigba-i",
+                    "Ididigba-pry-school-ididigba-ii",
+                    "Open-space-momodu-road-by-agwa-junction",
+                    "Annunciation-catholic-college-irrua",
+                    "Open-space-irrua-market-by-momodu-road",
+                    "Open-space-irrua-market-by-abdumaliki-street",
+                    "Model-primary-health-center-irrua",
+                    "Irrua-post-office",
+                    "Usenu-comm-hall-usenu"
+                ]
+            }
+        }
+    }            
+    ]
+    }]
+  }]
+}]
+}
 
 ]
