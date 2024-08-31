@@ -325,10 +325,197 @@
                               "Oronmiyan-primary-school-oliha-ii", "Jossy-wisdom-nur-primary-school-oliha-i", 
                               "Jossy-wisdom-nur-primary-school-oliha-ii", "Jossy-wisdom-nur-primary-school-oliha-iii", 
                               "Nightingale-nur-primary-school-oliha-i", "Nightingale-nur-primary-school-oliha-ii"
-
             ]}]
         }]
       }]
+    }]
+  }]
+}]
+},
+{
+  "state":[{
+  "Edo":[{
+    "LGA":[{
+      "Egor":[{
+        "Ward":[{
+          "Otubu":[{
+            "Polling unit": [ "Asoro-gram-sch-evbuotubu-i", "Asoro-gram-sch-evbuotubu-ii", 
+                              "Evbuotubu-sec-school", "Evbuotubu-sc-scho0l-evbuotubu", 
+                              "Omo-nusery-primary-school-evbuotubu-i", "Omo-nursery-primary-school-evbuotubu-ii", 
+                              "Evbuotubu-primary-school-evbuotubu-i", "Evbuotubu-primary-school-evbuotubu-ii", 
+                              "Evbuotubu-town-hall-evbuotubu-i", "Evbuotubu-town-hall-evbuotubu-ii", 
+                              "Evbuotubu-health-centre-evbuotubu", "Aruosa-primary-school-evbuotubu-i", 
+                              "Aruosa-primary-school-evbuotubu-ii", "Urumwon-primary-school-evbuotubu-i", 
+                              "Urumwon-primary-school-evbuotubu-ii", "Ugbikhoko-primary-school-evbuotubu", 
+                              "Ogbomwan-primary-school-evbuotubu"
+            ]}]
+        }]
+      }]
+    }]
+  }]
+}]
+}
+,
+{
+  "state":[{
+  "Edo":[{
+    "LGA":[{
+      "Egor":[{
+        "Ward":[{
+          "Uselu-i":[{
+            "Polling unit": [ "Uselu-town-hall-uselu-i-i", "Uselu-town-hall-uselu-i-ii",
+                              "Olua-primary-school-uselu-i-i", "Olua-primary-school-uselu-i-ii",
+                              "Olua-primary-school-uselu-i-iii", "Olua-primary-school-uselu-i-iv",
+                              "Olua-primary-school-uselu-i-v", "Olua-primary-school-uselu-i-vi",
+                              "Olua-primary-school-uselu-i-vii", "Olua-primary-school-uselu-i-viii",
+                              "Uselu-motor-park-uselu-i-i", "Uselu-motor-park-uselu-i-ii",
+                              "Fed-road-public-field-uselu-ii-i", "Fed-road-public-field-uselu-ii-ii",
+                              "Fed-road-public-field-uselu-ii-iii", "Fed-road-public-field-uselu-ii-iv",
+                              "Paramount-nur-primary-school-uselu-ii-i", "Paramount-nur-primary-school-uselu-ii-ii",
+                              "Paramount-nur-primary-school-uselu-ii-iii"
+            ]}]
+        }]
+      }]
+    }]
+  }]
+}]
+}
+,
+{
+  "state":[{
+  "Edo":[{
+    "LGA":[{
+      "Egor":[{
+        "Ward":[{
+          "Ugbowo":[{
+            "Polling unit": [ "l-g-a-council-sect-ugbowo-i-i", "l-g-a-council-sect-ugbowo-i-ii", 
+                              "Benin-technical-college-ugbowo-i", "Iyoba-college-ugbowo-i-i", 
+                              "Iyoba-college-ugbowo-i-ii", "Iyoba-college-ugbowo-i-iii", 
+                              "Eweka-gram-sch-ugbowo-i-i", "Eweka-gram-sch-ugbowo-i-ii", 
+                              "Ugbowo-primary-sch-ugbowo-ii-i", "Ugbowo-primary-sch-ugbowo-ii-ii", 
+                              "Ugbowo-primary-sch-ugbowo-ii-iii", "Ugbowo-primary-sch-ugbowo-ii-iv", 
+                              "Adolor-college-ugbowo-ii-i", "Adolor-college-ugbowo-ii-ii", 
+                              "Adolor-college-ugbowo-ii-iii", "Adolor-college-ugbowo", 
+                              "Adolor-college-ugbowo-ii-iv", "Ohonre-gram-sch-ugbowo-ii-i", 
+                              "Ohonre-gram-sch-ugbowo-ii-ii", "B-d-p-a-ugbowo-ii-i", 
+                              "B-d-p-a-ugbowo-ii-ii", "Ubth-police-post-ugbowo-ii-i", 
+                              "Ubth-police-post-ugbowo-ii-ii"
+            ]}]
+        }]
+      }]
+    }]
+  }]
+}]
+}
+,
+{
+  "state":[{
+  "Edo":[{
+    "LGA":[{
+      "Egor":[{
+        "Ward":[{
+          "Uselu-ii":[{
+            "Polling unit": [
+              "Uselu-sec-school-uselu-ii-i", "Uselu-sec-school-uselu-ii-ii",
+              "Uselu-sec-school-uselu-ii-iii", "Uselu-sec-school-uselu-ii-iv",
+              "Uselu-sec-school-uselu-ii-v", "Uselu-sec-school-uselu-ii-vi",
+              "Uselu-sec-school-uselu-ii-vii", "Golden-touch-sec-sch-edaiken-i",
+              "Golden-touch-sec-sch-edaiken-ii", "Golden-touch-sec-sch-edaiken-iii",
+              "Golden-touch-sec-sch-edaiken-iv", "Edaiken-primary-school-edaiken-v",
+              "Edaiken-primary-school-edaiken-i", "Edaiken-primary-school-edaiken-ii",
+              "Edaiken-primary-school-edaiken-iii", "Edaiken-primary-school-edaiken-iv",
+              "Edaiken-primary-school-edaiken-v", "Universal-comm-hall-public-field-edaiken-i",
+              "Universal-comm-hall-public-field-edaiken-ii"
+            ]
+          }
+          ]
+        }]
+      }]
+    }]
+  }]
+}]
+}
+,
+{
+  "state":[{
+  "Edo":[{
+    "LGA":[{
+      "Egor":[{
+        "Ward":[{
+          "Uselu-ii":[{
+            "Polling unit": [
+              "Uselu-sec-school-uselu-ii-i", "Uselu-sec-school-uselu-ii-ii",
+              "Uselu-sec-school-uselu-ii-iii", "Uselu-sec-school-uselu-ii-iv",
+              "Uselu-sec-school-uselu-ii-v", "Uselu-sec-school-uselu-ii-vi",
+              "Uselu-sec-school-uselu-ii-vii", "Golden-touch-sec-sch-edaiken-i",
+              "Golden-touch-sec-sch-edaiken-ii", "Golden-touch-sec-sch-edaiken-iii",
+              "Golden-touch-sec-sch-edaiken-iv", "Edaiken-primary-school-edaiken-v",
+              "Edaiken-primary-school-edaiken-i", "Edaiken-primary-school-edaiken-ii",
+              "Edaiken-primary-school-edaiken-iii", "Edaiken-primary-school-edaiken-iv",
+              "Edaiken-primary-school-edaiken-v", "Universal-comm-hall-public-field-edaiken-i",
+              "Universal-comm-hall-public-field-edaiken-ii"
+            ]
+          }
+          ]
+        }]
+      }]
+    }]
+  }]
+}]
+}
+,
+{ 
+"state":[{
+  "Edo":[{
+    "LGA":[{
+      "Egor":[{
+        "Ward":[{
+          "Uwelu":[{
+            "Polling unit": [
+                "Amegor-primary-school-uwelu-i",
+                "Amegor-primary-school-uwelu-ii",
+                "Amegor-primary-school-uwelu-iii",
+                "Uwelu-sec-school-uwelu-i",
+                "Uwelu-sec-school-uwelu-ii",
+                "Uwelu-sec-school-uwelu",
+                "Uwelu-road-uwasota-junct-uwelu-i",
+                "Uwelu-road-uwasota-junct-uwelu-ii",
+                "Uwelu-health-centre-uwelu-i",
+                "Uwelu-health-centre-uwelu-ii",
+                "Police-children-sch-uwelu-i",
+                "Police-children-sch-uwelu-ii"
+            ]
+        }
+        
+          ]
+        }]
+      }]
+    }]
+  }]
+}]
+}
+,
+{ 
+"state":[{
+  "Edo":[{
+    "LGA":[{
+      "Esan Central":[{
+        "Ward": {
+            "Ewu-i": {
+                "Polling unit": [
+                    "Uzogholo-pry-sch-uzogholo-i",
+                    "Uzogholo-pry-sch-uzogholo-ii",
+                    "Uzogholo-pry-sch-uzogholo-iii",
+                    "Ehanlen-pry-sch-ehanlen-i",
+                    "Ehanlen-pry-sch-ehanlen-ii",
+                    "Ehanlen-pry-sch-ehanlen-iii",
+                    "Egbor-camp-egbor",
+                    "Eko-pry-school-eko"
+                ]
+            }
+        }
+    }
+    ]
     }]
   }]
 }]
