@@ -608,5 +608,36 @@
   }]
 }]
 }
+,
+{ 
+"state":[{
+  "Edo":[{
+    "LGA":[{
+      "Esan Central":[{
+        "Ward": {
+            "Otoruwo-ii": {
+                "Polling unit": [
+                    "Usugbenu-pry-school-usugbenu-i",
+                    "Usugbenu-pry-school-usugbenu-ii",
+                    "Usugbenu-pry-school-usugbenu-iii",
+                    "Irrua-girls-sec-sch-irrua",
+                    "Idumebo-pry-sch-idumebo-i",
+                    "Idumebo-pry-sch-idumebo-ii",
+                    "Uwenujie-pry-school-uwenujie",
+                    "Idumabi-square-idumabi",
+                    "Okoughele-nodion-irrua",
+                    "Open-space-irrua-specialist-hospital",
+                    "Open-space-by-assemblies-of-god-ikekiala-usugbenu-irrua",
+                    "Open-space-eigbe-street-junction-off-idumuabokhae-qtrs",
+                    "Open-space-in-front-of-mudiame-university-irrua"
+                ]
+            }
+        }
+    }    
+    ]
+    }]
+  }]
+}]
+}
 
 ]
