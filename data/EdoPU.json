@@ -639,5 +639,39 @@
   }]
 }]
 }
+,
+{ 
+"state":[{
+  "Edo":[{
+    "LGA":[{
+      "Esan Central":[{
+        "Ward": {
+            "Ugbegun": {
+                "Polling unit": [
+                    "Eguare-pry-school-eguare-i",
+                    "Eguare-pry-school-eguare-ii",
+                    "Eguare-pry-school-eguare-iii",
+                    "Ikekogbe-pry-school-ikekogbe",
+                    "Ukpughele-pry-sch-ukpughele",
+                    "Umenlen-pry-sch-umenlen-ehoh-ehonor-and-environs",
+                    "Umenlen-pry-sch-umenlen-idumu-iyo-and-environs",
+                    "Former-l-a-pry-sch-idumu-iyala-and-environs",
+                    "Adult-school-idumu-ughulu-odoghe-idumu-oli-and-environs",
+                    "Ebudin-pry-sch-ebudin-i",
+                    "Ebudin-pry-sch-ebudin-ii",
+                    "Ebudin-pry-sch-iguizi",
+                    "Health-center-ugbegun",
+                    "Ebudin-grammar-school",
+                    "Ebudin-health-centre",
+                    "Odogbe-primary-school-odogbe"
+                ]
+            }
+        }
+    }    
+    ]
+    }]
+  }]
+}]
+}
 
 ]
