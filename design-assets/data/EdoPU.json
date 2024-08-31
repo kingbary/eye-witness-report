@@ -254,8 +254,30 @@
                               "Evbareke-gram-sch-evbareke-iv", "Evbareke-gram-sch-evbareke-v", 
                               "Aka-int-sch-evbareke-i", "Aka-int-sch-evbareke-ii", 
                               "Aka-int-sch-evbareke-iii"
-
-
+            ]}]
+        }]
+      }]
+    }]
+  }]
+}]
+},
+{
+  "state":[{
+  "Edo":[{
+    "LGA":[{
+      "Egor":[{
+        "Ward":[{
+          "Ogida-use":[{
+            "Polling unit": [ "Ogida-motor-park-ogida-i", "Ogida-motor-park-ogida-ii", 
+            "Ogida-motor-park-ogida-iii", "Ogida-motor-park-ogida-iv", 
+            "Ogida-motor-park-ogida-v", "Ogida-motor-park-ogida-vi", 
+            "Ogida-primary-school-ogida-i", "Ogida-primary-school-ogida-ii", 
+            "Enina-nur-primary-school-ogida-i", "Enina-nur-primary-school-ogida-ii", 
+            "Hopewell-group-of-sch-use", "Eweka-primary-school-use-i", 
+            "Eweka-primary-school-use-ii", "Eweka-primary-school-use-iii", 
+            "Eweka-primary-school-use-iv", "Eweka-primary-school-use-v", 
+            "Use-town-hall-use", "Use-sec-school-use-i", 
+            "Use-sch-school-use-ii", "Blessed-assurance-nur-primary-school"
             ]}]
         }]
       }]
