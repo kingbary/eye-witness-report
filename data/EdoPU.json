@@ -673,5 +673,127 @@
   }]
 }]
 }
+,
+{ 
+"state":[{
+  "Edo":[{
+    "LGA":[{
+      "Esan Central":[{
+        "Ward": {
+            "Uneah": {
+                "Polling unit": [
+                    "Ibore-primary-school-ibore-i",
+                    "Ibore-primary-school-ibore-ii",
+                    "Ibore-primary-school-ibore-iii",
+                    "Ibore-primary-school-ibore-iv",
+                    "Ugbalo-primary-school-ugbalo",
+                    "Atuagbo-primary-school-atuagbo",
+                    "Assemblies-of-god-miss-sch-atuagbo-i",
+                    "Assemblies-of-god-miss-sch-atuagbo-ii",
+                    "Okhoromi-vill-square-eko-guanlan",
+                    "Ekilor-primary-school-ekilor",
+                    "Water-board-ikekhalia-ibore",
+                    "Open-space-ibore-town-hall"
+                ]
+            }
+        }
+    }        
+    ]
+    }]
+  }]
+}]
+}
+,
+{ 
+"state":[{
+  "Edo":[{
+    "LGA":[{
+      "Esan Central":[{
+        "Ward": {
+            "Uwessan-i": {
+                "Polling unit": [
+                    "Udomi-pry-sch-udomi-i",
+                    "Udomi-pry-sch-udomi-ii",
+                    "Udomi-pry-sch-udomi-iii",
+                    "Unogbo-pry-sch-unogbo",
+                    "Ujabhole-pry-sch-ujabhole-i",
+                    "Ujabhole-pry-sch-ujabhole-ii",
+                    "Ujabhole-pry-sch-ujabhole-iii",
+                    "Ujabhole-pry-sch-ujabhole-iv",
+                    "Afuda-pry-sch-ujabhole-i",
+                    "Afuda-pry-sch-ujabhole-ii"
+                ]
+            }
+        }
+    }            
+    ]
+    }]
+  }]
+}]
+}
+,
+{ 
+"state":[{
+  "Edo":[{
+    "LGA":[{
+      "Esan Central":[{
+        "Ward": {
+            "Uwessan-ii": {
+                "Polling unit": [
+                    "Idumoza-pry-sch-idumoza-i",
+                    "Idumoza-pry-sch-idumoza-ii",
+                    "Uwessan-pry-sch-uwessan-i",
+                    "Uwessan-pry-sch-uwessan-ii",
+                    "Idumoghodor-town-hall-uwessan-iii",
+                    "Ohe-pry-sch-ohe-i",
+                    "Ohe-pry-sch-ohe-ii"
+                ]
+            }
+        }
+    }                
+    ]
+    }]
+  }]
+}]
+}
+,
+{ 
+"state":[{
+  "Edo":[{
+    "LGA":[{
+      "Esan North-east":[{
+        "Ward": {
+            "Amedokhian": {
+                "Polling unit": [
+                    "Uromi-onewa-pry-sch-i",
+                    "Uromi-onewa-pry-sch-ii",
+                    "Uromi-iruele-pry-sch",
+                    "Uromi-awo-pry-sch-i",
+                    "Uromi-awo-pry-sch-ii",
+                    "Uromi-ukoni-pry-sch-i",
+                    "Uromi-ukoni-pry-sch-ii",
+                    "Uromi-ukoni-pry-sch-iii",
+                    "Uromi-ukoni-pry-sch-iv",
+                    "Uromi-amedokhian-pry-sch-i",
+                    "Uromi-amedokhian-pry-sch-ii",
+                    "Uromi-amedokhian-pry-sch-iii",
+                    "Uromi-amedokhian-pry-sch-iv",
+                    "Uromi-ikeken-pry-sch",
+                    "Open-space-in-front-of-iruele-oko-ughele-hall",
+                    "Imiomuza-market-awo",
+                    "Open-space-by-idumu-isoke-community-junction",
+                    "Open-space-by-idumhin-ihama-quarter-junction",
+                    "Amedokhian-market-i",
+                    "Open-space-by-okhen-junction",
+                    "Open-space-by-idumu-esogban-junction"
+                ]
+            }
+        }
+    }                    
+    ]
+    }]
+  }]
+}]
+}
 
 ]
