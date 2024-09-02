@@ -5,7 +5,7 @@
       "Akoko Edo":[{
         "Ward":[{
           "Enwan-atte-ikpeshi-egbigele":[{
-            "Polling unit": [ "Enwan-imiezua-p-s-i",	"Enwan-imiezua-p-s-ii",	  
+            "PollingUnit": [ "Enwan-imiezua-p-s-i",	"Enwan-imiezua-p-s-ii",	  
                                             "Enwan-enwan-p-s",	  "Enwan-ekpari-market-sq",	  
                                             "Enwan-imiegesakor-t-sq",	  "Enwan-eshekari-t-sq-i",
                                         	  "Enwan-eshekari-t-sq-ii",	  "Atte-maternity-centre",
@@ -27,7 +27,7 @@
       "Akoko Edo":[{
         "Ward":[{
           "Ibillo-ekpesa-ekor-ikiran-ile-oke":[{
-            "Polling unit": [  "Ibillo-ojah-p-s",	 "Ibillo-ibillo-p-s",	 
+            "PollingUnit": [  "Ibillo-ojah-p-s",	 "Ibillo-ibillo-p-s",	 
                               "Ibillo-by-chief-omoloju-s-hs",	  "Ibillo-by-chief-giwa-s-hs", 
                               "Ibillo-mkt-square",	 "Ibillo-by-oba-s-hs",
                               "Ibillo-azane-p-s",	  "Ibill-o-efolo-p-s",
@@ -49,7 +49,7 @@
       "Akoko Edo":[{
         "Ward":[{
           "Igarra-i":[{
-            "Polling unit": [  "Ugbogbo-ozedi",	  "Ugbogbo-by-co-operative-store",
+            "PollingUnit": [  "Ugbogbo-ozedi",	  "Ugbogbo-by-co-operative-store",
                           	  "Ugbogbo-kajola-road",	 "Ugbogbo-nr-omokhide-s-house",
                               "Ugbogbo-secretariat-road",	"Ugbogbo-opposite-l-g-council",
                               "Ugbogbo-ofunami-mkt-square",	"Ugbogbo-opposite-ogogoro-junction",
@@ -72,7 +72,7 @@
       "Akoko Edo":[{
         "Ward":[{
           "Igarra-ii":[{
-            "Polling unit": [ "Utua-1-utua-p-s",	 "Utua-i-by-ajayi-s-comp",
+            "PollingUnit": [ "Utua-1-utua-p-s",	 "Utua-i-by-ajayi-s-comp",
                               "Utua-i-opposite-customary-court",	 "Utua-nr-gadimoh-s-house",
                               "Utua-i-godstime-nursery-school",	 "Ufa-ii-iretoji-primary-school",
                               "Ufa-ii-nr-edeki-s-house",	 "Ufa-ii-by-ovoko-s-house",	 
@@ -93,7 +93,7 @@
       "Akoko Edo":[{
         "Ward":[{
           "Imoga-lampese-bekuma-ekpe":[{
-            "Polling unit": [ "Lampese-lampese-mkt-sq", "Lampese-ukilekpe-p-s", 
+            "PollingUnit": [ "Lampese-lampese-mkt-sq", "Lampese-ukilekpe-p-s", 
                               "Lampese-aforo-qrts", "Lampese-aforo-qtrs", 
                               "Lampese-uke-p-s", "Lampese-by-oloriegbe-comp", 
                               "Elekpi-by-chief-okondon", "Imoga-umar-p-s", 
@@ -115,7 +115,7 @@
       "Akoko Edo":[{
         "Ward":[{
           "Makeke-ojah-dangbala-ojirami-anyawoza":[{
-            "Polling unit": [ "Dangbala-dangbala-p-s-i", "Dangbala-dangbala-p-s-ii", 
+            "PollingUnit": [ "Dangbala-dangbala-p-s-i", "Dangbala-dangbala-p-s-ii", 
                               "Dangbala-old-dangbala-court-hall", "Makeke-eresha-p-s", 
                               "Makeke-by-agbala-s-house", "Makeke-ileteju-primary-school", 
                               "Anyanwosa-anyanwosa-ojutaiye", "Ojah-oyonba-p-s-I", 
@@ -138,7 +138,7 @@
       "Akoko Edo":[{
         "Ward":[{
           "Oloma-okpe-ijaja-kakuma-anyara":[{
-            "Polling unit": [ "Okpe-idogun-ps-i", "Okpe-idogun-ps-ii", 
+            "PollingUnit": [ "Okpe-idogun-ps-i", "Okpe-idogun-ps-ii", 
             "Okpe-palace-square-i", "Okpe-palace-square-ii", 
             "Okpe-maternity-centre", "Okpe-ajama-primary-school", 
             "Okpe-ajama-p-s-i", "Okpe-oloma-p-s-ii", 
@@ -160,7 +160,7 @@
       "Akoko Edo":[{
         "Ward":[{
           "Ososo":[{
-            "Polling unit": [ "Ososo-old-maternity", "Ososo-old-anni", 
+            "PollingUnit": [ "Ososo-old-maternity", "Ososo-old-anni", 
                               "Ososo-egbetua-p-s", "Ososo-by-ogedegbe-s-comp", 
                               "Ososo-okhe-pfrimary-school-i", "Ososo-okhe-primary-school-ii", 
                               "Ososo-ikpena-hall", "Ososo-uduegede-hall", 
@@ -181,7 +181,7 @@
       "Akoko Edo":[{
         "Ward":[{
           "Somorika-ogbe-sasaro-onumu-eshawa-ogugu-igboshi-afe-igboshi-ele-aiyegunle":[{
-            "Polling unit": [ "Somorika-public-forum", "Omorika-ekpere", 
+            "PollingUnit": [ "Somorika-public-forum", "Omorika-ekpere", 
                               "Eshawa-public-square", "Onumu-nr-ang-church", 
                               "Ogbe-apiasa-primary-s-chool-i", "Ogbe-apiasa-primary-school-ii", 
                               "Sasaro-maternity-centre", "Aiyegunle-by-chief-aliu-s-comp-i", 
@@ -203,7 +203,7 @@
       "Akoko Edo":[{
         "Ward":[{
           "Uneme-nekhua-akpama-aiyetoro-ekpedo-erhurun-uneme-osu":[{
-            "Polling unit": [ "Uneme-nekhua-court-hall-i", "Uneme-nekhua-court-hall-ii", 
+            "PollingUnit": [ "Uneme-nekhua-court-hall-i", "Uneme-nekhua-court-hall-ii", 
             "Aiyetoro-opp-cms-church", "Akpama-opp-cms-church", 
             "Ekpedo-ogun-p-s-ekpedo", "Ekpedo-by-dispensary-i", 
             "Ekpedo-by-dispensary-ii", "Ekpedo-imiava-street", 
@@ -225,7 +225,7 @@
       "Egor":[{
         "Ward":[{
           "Egor":[{
-            "Polling unit": [ "Egor-primary-school-egor-i", "Egor-primary-school-egor-ii", 
+            "PollingUnit": [ "Egor-primary-school-egor-i", "Egor-primary-school-egor-ii", 
                               "Egor-primary-school-egor-iii", "Egor-sec-school-egor-i", 
                               "Egor-sec-school-egor-ii", "Tipper-garage-egor", 
                               "Tipper-garage-market-square-egor-i", "Tipper-garage-market-square-egor-ii", 
@@ -245,7 +245,7 @@
       "Egor":[{
         "Ward":[{
           "Evbareke":[{
-            "Polling unit": [ "Udens-int-sch-evbareke-i", "Udens-int-sch-evbareke-ii", 
+            "PollingUnit": [ "Udens-int-sch-evbareke-i", "Udens-int-sch-evbareke-ii", 
                               "Udens-int-sch-evbareke-iii", "Under-a-tree-by-uwelu-rd-evbareke-i", 
                               "Under-a-tree-by-uwelu-rd-evbareke-ii", "Baso-int-sch-evbareke-i", 
                               "Baso-int-sch-evbareke-ii", "Adams-int-sch-evbareke-i", 
@@ -270,7 +270,7 @@
       "Egor":[{
         "Ward":[{
           "Ogida-use":[{
-            "Polling unit": [ "Ogida-motor-park-ogida-i", "Ogida-motor-park-ogida-ii", 
+            "PollingUnit": [ "Ogida-motor-park-ogida-i", "Ogida-motor-park-ogida-ii", 
                               "Ogida-motor-park-ogida-iii", "Ogida-motor-park-ogida-iv", 
                               "Ogida-motor-park-ogida-v", "Ogida-motor-park-ogida-vi", 
                               "Ogida-primary-school-ogida-i", "Ogida-primary-school-ogida-ii", 
@@ -294,7 +294,7 @@
       "Egor":[{
         "Ward":[{
           "Okhoro":[{
-            "Polling unit": [ "Eghosa-gram-sch-okhoro-i-i", "Eghosa-gram-sch-okhoro-i-ii", 
+            "PollingUnit": [ "Eghosa-gram-sch-okhoro-i-i", "Eghosa-gram-sch-okhoro-i-ii", 
                               "Eghosa-gram-sch-okhoro-i-iii", "Eghosa-gram-sch-okhoro-i-iv", 
                               "Eghosa-gram-sch-okhoro-i-v", "Eghosa-gram-sch-okhoro-i-vi", 
                               "Eghosa-gram-sch-okhoro-i-vii", "Eghosa-gram-sch-okhoro-i-viii", 
@@ -318,7 +318,7 @@
       "Egor":[{
         "Ward":[{
           "Oliha":[{
-            "Polling unit": [ "Aunty-maria-nur-primary-school-oliha-i", "Aunty-maria-nur-primary-school-oliha-ii", 
+            "PollingUnit": [ "Aunty-maria-nur-primary-school-oliha-i", "Aunty-maria-nur-primary-school-oliha-ii", 
                               "Aunty-maria-nur-primary-school-oliha-iii", "Aunty-maria-nur-primary-school-oliha-iv", 
                               "Aunty-maria-nur-primary-school-oliha-v", "Abraka-standard-nur-school-oliha-vi", 
                               "Abraka-standard-nur-school-oliha-vii", "Oronmiyan-primary-school-oliha-i", 
@@ -339,7 +339,7 @@
       "Egor":[{
         "Ward":[{
           "Otubu":[{
-            "Polling unit": [ "Asoro-gram-sch-evbuotubu-i", "Asoro-gram-sch-evbuotubu-ii", 
+            "PollingUnit": [ "Asoro-gram-sch-evbuotubu-i", "Asoro-gram-sch-evbuotubu-ii", 
                               "Evbuotubu-sec-school", "Evbuotubu-sc-scho0l-evbuotubu", 
                               "Omo-nusery-primary-school-evbuotubu-i", "Omo-nursery-primary-school-evbuotubu-ii", 
                               "Evbuotubu-primary-school-evbuotubu-i", "Evbuotubu-primary-school-evbuotubu-ii", 
@@ -363,7 +363,7 @@
       "Egor":[{
         "Ward":[{
           "Uselu-i":[{
-            "Polling unit": [ "Uselu-town-hall-uselu-i-i", "Uselu-town-hall-uselu-i-ii",
+            "PollingUnit": [ "Uselu-town-hall-uselu-i-i", "Uselu-town-hall-uselu-i-ii",
                               "Olua-primary-school-uselu-i-i", "Olua-primary-school-uselu-i-ii",
                               "Olua-primary-school-uselu-i-iii", "Olua-primary-school-uselu-i-iv",
                               "Olua-primary-school-uselu-i-v", "Olua-primary-school-uselu-i-vi",
@@ -388,7 +388,7 @@
       "Egor":[{
         "Ward":[{
           "Ugbowo":[{
-            "Polling unit": [ "l-g-a-council-sect-ugbowo-i-i", "l-g-a-council-sect-ugbowo-i-ii", 
+            "PollingUnit": [ "l-g-a-council-sect-ugbowo-i-i", "l-g-a-council-sect-ugbowo-i-ii", 
                               "Benin-technical-college-ugbowo-i", "Iyoba-college-ugbowo-i-i", 
                               "Iyoba-college-ugbowo-i-ii", "Iyoba-college-ugbowo-i-iii", 
                               "Eweka-gram-sch-ugbowo-i-i", "Eweka-gram-sch-ugbowo-i-ii", 
@@ -415,7 +415,7 @@
       "Egor":[{
         "Ward":[{
           "Uselu-ii":[{
-            "Polling unit": [
+            "PollingUnit": [
               "Uselu-sec-school-uselu-ii-i", "Uselu-sec-school-uselu-ii-ii",
               "Uselu-sec-school-uselu-ii-iii", "Uselu-sec-school-uselu-ii-iv",
               "Uselu-sec-school-uselu-ii-v", "Uselu-sec-school-uselu-ii-vi",
@@ -443,7 +443,7 @@
       "Egor":[{
         "Ward":[{
           "Uwelu":[{
-            "Polling unit": [
+            "PollingUnit": [
                 "Amegor-primary-sch-uwelu-i",
                 "Amegor-primary-sch-uwelu-ii",
                 "Amegor-primary-sch-uwelu-iii",
@@ -474,7 +474,7 @@
       "Esan Central":[{
         "Ward": {
             "Ewu-i": {
-                "Polling unit": [
+                "PollingUnit": [
                     "Uzogholo-pry-sch-uzogholo-i",
                     "Uzogholo-pry-sch-uzogholo-ii",
                     "Uzogholo-pry-sch-uzogholo-iii",
@@ -500,7 +500,7 @@
       "Esan Central":[{
         "Ward": {
             "Ewu-ii": {
-                "Polling unit": [
+                "PollingUnit": [
                     "Idunwele-pry-sch-idunwele-i",
                     "Idunwele-pry-sch-idunwele-ii",
                     "Idunwele-pry-sch-idunwele-iii",
@@ -527,7 +527,7 @@
       "Esan Central":[{
         "Ward": {
             "Opoji": {
-                "Polling unit": [
+                "PollingUnit": [
                     "Eguare-pry-sch-eguare-ii",
                     "Euare-grammar-sch-opoji",
                     "Iki-pry-sch-iki-i",
@@ -556,7 +556,7 @@
       "Esan Central":[{
         "Ward": {
             "Ikekato": {
-                "Polling unit": [
+                "PollingUnit": [
                     "Eko-iyobhebhe-pry-sch-eko-iyobhebhe",
                     "Agwa-pry-sch-agwa",
                     "Udowo-pry-sch-udowo-i",
@@ -583,7 +583,7 @@
       "Esan Central":[{
         "Ward": {
             "Otoruwo-i": {
-                "Polling unit": [
+                "PollingUnit": [
                     "Akho-pry-sch-akho-i",
                     "Akho-pry-sch-akho-ii",
                     "Eguare-pry-sch-eguare-i",
@@ -616,7 +616,7 @@
       "Esan Central":[{
         "Ward": {
             "Otoruwo-ii": {
-                "Polling unit": [
+                "PollingUnit": [
                     "Usugbenu-pry-sch-usugbenu-i",
                     "Usugbenu-pry-sch-usugbenu-ii",
                     "Usugbenu-pry-sch-usugbenu-iii",
@@ -647,7 +647,7 @@
       "Esan Central":[{
         "Ward": {
             "Ugbegun": {
-                "Polling unit": [
+                "PollingUnit": [
                     "Eguare-pry-sch-eguare-i",
                     "Eguare-pry-sch-eguare-ii",
                     "Eguare-pry-sch-eguare-iii",
@@ -681,7 +681,7 @@
       "Esan Central":[{
         "Ward": {
             "Uneah": {
-                "Polling unit": [
+                "PollingUnit": [
                     "Ibore-primary-school-ibore-i",
                     "Ibore-primary-school-ibore-ii",
                     "Ibore-primary-school-ibore-iii",
@@ -711,7 +711,7 @@
       "Esan Central":[{
         "Ward": {
             "Uwessan-i": {
-                "Polling unit": [
+                "PollingUnit": [
                     "Udomi-pry-sch-udomi-i",
                     "Udomi-pry-sch-udomi-ii",
                     "Udomi-pry-sch-udomi-iii",
@@ -739,7 +739,7 @@
       "Esan Central":[{
         "Ward": {
             "Uwessan-ii": {
-                "Polling unit": [
+                "PollingUnit": [
                     "Idumoza-pry-sch-idumoza-i",
                     "Idumoza-pry-sch-idumoza-ii",
                     "Uwessan-pry-sch-uwessan-i",
@@ -764,7 +764,7 @@
       "Esan North-east":[{
         "Ward": {
             "Amedokhian": {
-                "Polling unit": [
+                "PollingUnit": [
                     "Uromi-onewa-pry-sch-i",
                     "Uromi-onewa-pry-sch-ii",
                     "Uromi-iruele-pry-sch",
@@ -790,6 +790,38 @@
             }
         }
     }                    
+    ]
+    }]
+  }]
+}]
+}
+,
+{ 
+"state":[{
+  "Edo":[{
+    "LGA":[{
+      "Esan North-east":[{
+        "Ward": {
+            "Arue": {
+                "PollingUnit": [
+                    "Uromi-eroh-pry-sch-i",
+                    "Uromi-eroh-pry-sch-ii",
+                    "Uromi-eroh-pry-sch-iii",
+                    "Uromi-arue-pry-sch-i",
+                    "Uromi-arue-pry-sch-ii",
+                    "Uromi-arue-pry-sch-iii",
+                    "Uromi-uzenema-pry-sch-i",
+                    "Uromi-uzenema-pry-sch-ii",
+                    "Uromi-uzenema-pry-sch-iii",
+                    "Uromi-uzenema-pry-sch-iv",
+                    "Arue-secondary-school",
+                    "Arue-market-square",
+                    "Open-space-by-okogbeni-junction-arue"
+                ]
+            }
+        }
+    }
+                       
     ]
     }]
   }]
