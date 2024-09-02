@@ -444,12 +444,12 @@
         "Ward":[{
           "Uwelu":[{
             "Polling unit": [
-                "Amegor-primary-school-uwelu-i",
-                "Amegor-primary-school-uwelu-ii",
-                "Amegor-primary-school-uwelu-iii",
-                "Uwelu-sec-school-uwelu-i",
-                "Uwelu-sec-school-uwelu-ii",
-                "Uwelu-sec-school-uwelu",
+                "Amegor-primary-sch-uwelu-i",
+                "Amegor-primary-sch-uwelu-ii",
+                "Amegor-primary-sch-uwelu-iii",
+                "Uwelu-sec-sch-uwelu-i",
+                "Uwelu-sec-sch-uwelu-ii",
+                "Uwelu-sec-sch-uwelu",
                 "Uwelu-road-uwasota-junct-uwelu-i",
                 "Uwelu-road-uwasota-junct-uwelu-ii",
                 "Uwelu-health-centre-uwelu-i",
@@ -532,8 +532,8 @@
                     "Euare-grammar-sch-opoji",
                     "Iki-pry-sch-iki-i",
                     "Iki-pry-sch-iki-ii",
-                    "Oghagbo-pry-school-oghagbo-i",
-                    "Oghagbo-pry-school-oghagbo-ii",
+                    "Oghagbo-pry-sch-oghagbo-i",
+                    "Oghagbo-pry-sch-oghagbo-ii",
                     "Okhore-pry-sch-okhore",
                     "Ikienwanlen-pry-sch-ikienwanlen",
                     "Ujosanlen-pry-sch-ujosanlen",
@@ -557,10 +557,10 @@
         "Ward": {
             "Ikekato": {
                 "Polling unit": [
-                    "Eko-iyobhebhe-pry-school-eko-iyobhebhe",
-                    "Agwa-pry-school-agwa",
-                    "Udowo-pry-school-udowo-i",
-                    "Udowo-pry-school-udowo-ii",
+                    "Eko-iyobhebhe-pry-sch-eko-iyobhebhe",
+                    "Agwa-pry-sch-agwa",
+                    "Udowo-pry-sch-udowo-i",
+                    "Udowo-pry-sch-udowo-ii",
                     "Idinegbon-pry-sch-idinegbon-i",
                     "Idinegbon-pry-sch-idinegbon-ii",
                     "Ikekato-sec-sch-ikekato",
@@ -584,14 +584,14 @@
         "Ward": {
             "Otoruwo-i": {
                 "Polling unit": [
-                    "Akho-pry-school-akho-i",
-                    "Akho-pry-school-akho-ii",
-                    "Eguare-pry-school-eguare-i",
-                    "Eguare-pry-school-eguare-ii",
-                    "Eguare-pry-school-eguare-iii",
+                    "Akho-pry-sch-akho-i",
+                    "Akho-pry-sch-akho-ii",
+                    "Eguare-pry-sch-eguare-i",
+                    "Eguare-pry-sch-eguare-ii",
+                    "Eguare-pry-sch-eguare-iii",
                     "Usenu-pry-school-usenu",
-                    "Ididigba-pry-school-ididigba-i",
-                    "Ididigba-pry-school-ididigba-ii",
+                    "Ididigba-pry-sch-ididigba-i",
+                    "Ididigba-pry-sch-ididigba-ii",
                     "Open-space-momodu-road-by-agwa-junction",
                     "Annunciation-catholic-college-irrua",
                     "Open-space-irrua-market-by-momodu-road",
@@ -617,13 +617,13 @@
         "Ward": {
             "Otoruwo-ii": {
                 "Polling unit": [
-                    "Usugbenu-pry-school-usugbenu-i",
-                    "Usugbenu-pry-school-usugbenu-ii",
-                    "Usugbenu-pry-school-usugbenu-iii",
+                    "Usugbenu-pry-sch-usugbenu-i",
+                    "Usugbenu-pry-sch-usugbenu-ii",
+                    "Usugbenu-pry-sch-usugbenu-iii",
                     "Irrua-girls-sec-sch-irrua",
                     "Idumebo-pry-sch-idumebo-i",
                     "Idumebo-pry-sch-idumebo-ii",
-                    "Uwenujie-pry-school-uwenujie",
+                    "Uwenujie-pry-sch-uwenujie",
                     "Idumabi-square-idumabi",
                     "Okoughele-nodion-irrua",
                     "Open-space-irrua-specialist-hospital",
@@ -648,22 +648,22 @@
         "Ward": {
             "Ugbegun": {
                 "Polling unit": [
-                    "Eguare-pry-school-eguare-i",
-                    "Eguare-pry-school-eguare-ii",
-                    "Eguare-pry-school-eguare-iii",
-                    "Ikekogbe-pry-school-ikekogbe",
+                    "Eguare-pry-sch-eguare-i",
+                    "Eguare-pry-sch-eguare-ii",
+                    "Eguare-pry-sch-eguare-iii",
+                    "Ikekogbe-pry-sch-ikekogbe",
                     "Ukpughele-pry-sch-ukpughele",
                     "Umenlen-pry-sch-umenlen-ehoh-ehonor-and-environs",
                     "Umenlen-pry-sch-umenlen-idumu-iyo-and-environs",
                     "Former-l-a-pry-sch-idumu-iyala-and-environs",
-                    "Adult-school-idumu-ughulu-odoghe-idumu-oli-and-environs",
+                    "Adult-sch-idumu-ughulu-odoghe-idumu-oli-and-environs",
                     "Ebudin-pry-sch-ebudin-i",
                     "Ebudin-pry-sch-ebudin-ii",
                     "Ebudin-pry-sch-iguizi",
                     "Health-center-ugbegun",
-                    "Ebudin-grammar-school",
+                    "Ebudin-grammar-sch",
                     "Ebudin-health-centre",
-                    "Odogbe-primary-school-odogbe"
+                    "Odogbe-primary-sch-odogbe"
                 ]
             }
         }
