@@ -31,7 +31,7 @@
                               "Ibillo-by-chief-omoloju-s-hs",	  "Ibillo-by-chief-giwa-s-hs", 
                               "Ibillo-mkt-square",	 "Ibillo-by-oba-s-hs",
                               "Ibillo-azane-p-s",	  "Ibill-o-efolo-p-s",
-                              "Ekpesa-oyengba-p-s",	  "Ekor-ekor-primary-school",
+                              "Ekpesa-oyengba-p-s",	  "Ekor-ekor-pry-sch",
                               "Ikiran-ile-by-alafin-s-hs", "Ikiran-by-suberu-hs",
                               "Ikiran-by-osogbo-hs",	  "Ikiran-oke-mkt-square"
             ]}]
@@ -74,7 +74,7 @@
           "Igarra-ii":[{
             "PollingUnit": [ "Utua-1-utua-p-s",	 "Utua-i-by-ajayi-s-comp",
                               "Utua-i-opposite-customary-court",	 "Utua-nr-gadimoh-s-house",
-                              "Utua-i-godstime-nursery-school",	 "Ufa-ii-iretoji-primary-school",
+                              "Utua-i-godstime-nursery-sch",	 "Ufa-ii-iretoji-pry-sch",
                               "Ufa-ii-nr-edeki-s-house",	 "Ufa-ii-by-ovoko-s-house",	 
                               "Ufa-ii-by-omoloju-s-comp",	 "Ufa-ii-ufa-hall",	 "Ufa-ii-nr-adamagbo-s-house",
                               "Ufa-ii-nr-adams-hs",	 "Ufa-ii-akuku-p-s-i",
@@ -97,7 +97,7 @@
                               "Lampese-aforo-qrts", "Lampese-aforo-qtrs", 
                               "Lampese-uke-p-s", "Lampese-by-oloriegbe-comp", 
                               "Elekpi-by-chief-okondon", "Imoga-umar-p-s", 
-                              "Imoga-lepper-settlement", "Imoga-imoga-primary-school", 
+                              "Imoga-lepper-settlement", "Imoga-imoga-pry-sch", 
                               "Imoga-by-chief-obanilu-s-comp", "Ekpe-kekpume-p-s", 
                               "Ekpe-by-dispensary", "Ekpe-ahor-p-s"
 
@@ -117,10 +117,10 @@
           "Makeke-ojah-dangbala-ojirami-anyawoza":[{
             "PollingUnit": [ "Dangbala-dangbala-p-s-i", "Dangbala-dangbala-p-s-ii", 
                               "Dangbala-old-dangbala-court-hall", "Makeke-eresha-p-s", 
-                              "Makeke-by-agbala-s-house", "Makeke-ileteju-primary-school", 
+                              "Makeke-by-agbala-s-house", "Makeke-ileteju-pry-sch", 
                               "Anyanwosa-anyanwosa-ojutaiye", "Ojah-oyonba-p-s-I", 
                               "Ojah-onyonba-p-s-ii", "Ojah-by-oba-s-house-i", 
-                              "Ojah-by-oba-s-house-ii", "Ojah-ojah-comm-high-school", 
+                              "Ojah-by-oba-s-house-ii", "Ojah-ojah-comm-high-sch", 
                               "Ojirami-dam-p-s", "Ojirami-dispensary-yard-psh", 
                               "Ojirami-afekunu-dispensary", "Ojirami-afekunu-market"
 
@@ -140,7 +140,7 @@
           "Oloma-okpe-ijaja-kakuma-anyara":[{
             "PollingUnit": [ "Okpe-idogun-ps-i", "Okpe-idogun-ps-ii", 
             "Okpe-palace-square-i", "Okpe-palace-square-ii", 
-            "Okpe-maternity-centre", "Okpe-ajama-primary-school", 
+            "Okpe-maternity-centre", "Okpe-ajama-pry-sch", 
             "Okpe-ajama-p-s-i", "Okpe-oloma-p-s-ii", 
             "Okpe-oyonbuni-hall", "Okpe-aiyeteju-okpe", 
             "Okpe-ogbalishe-p-s", "Anyan-anyara-ps", 
@@ -162,7 +162,7 @@
           "Ososo":[{
             "PollingUnit": [ "Ososo-old-maternity", "Ososo-old-anni", 
                               "Ososo-egbetua-p-s", "Ososo-by-ogedegbe-s-comp", 
-                              "Ososo-okhe-pfrimary-school-i", "Ososo-okhe-primary-school-ii", 
+                              "Ososo-okhe-pfrimary-sch-i", "Ososo-okhe-pry-sch-ii", 
                               "Ososo-ikpena-hall", "Ososo-uduegede-hall", 
                               "Ososo-udurevbe-t-sq", "Ososo-ikuegbede-p-s", 
                               "Ososo-irevbe-udegwa-sq", "Ososo-old-st-peters", 
@@ -183,7 +183,7 @@
           "Somorika-ogbe-sasaro-onumu-eshawa-ogugu-igboshi-afe-igboshi-ele-aiyegunle":[{
             "PollingUnit": [ "Somorika-public-forum", "Omorika-ekpere", 
                               "Eshawa-public-square", "Onumu-nr-ang-church", 
-                              "Ogbe-apiasa-primary-s-chool-i", "Ogbe-apiasa-primary-school-ii", 
+                              "Ogbe-apiasa-pry-s-chool-i", "Ogbe-apiasa-pry-sch-ii", 
                               "Sasaro-maternity-centre", "Aiyegunle-by-chief-aliu-s-comp-i", 
                               "Aiyegunle-by-chief-aliu-s-comp-ii", "Ugboshi-ele-by-eluka-s-comp", 
                               "Ugboshi-ele-opposite-samsons-comp", "Ugboshi-afe-by-market-square-i", 
@@ -225,9 +225,9 @@
       "Egor":[{
         "Ward":[{
           "Egor":[{
-            "PollingUnit": [ "Egor-primary-school-egor-i", "Egor-primary-school-egor-ii", 
-                              "Egor-primary-school-egor-iii", "Egor-sec-school-egor-i", 
-                              "Egor-sec-school-egor-ii", "Tipper-garage-egor", 
+            "PollingUnit": [ "Egor-pry-sch-egor-i", "Egor-pry-sch-egor-ii", 
+                              "Egor-pry-sch-egor-iii", "Egor-sec-sch-egor-i", 
+                              "Egor-sec-sch-egor-ii", "Tipper-garage-egor", 
                               "Tipper-garage-market-square-egor-i", "Tipper-garage-market-square-egor-ii", 
                               "P-t-training-sch-egor"
 
@@ -273,13 +273,13 @@
             "PollingUnit": [ "Ogida-motor-park-ogida-i", "Ogida-motor-park-ogida-ii", 
                               "Ogida-motor-park-ogida-iii", "Ogida-motor-park-ogida-iv", 
                               "Ogida-motor-park-ogida-v", "Ogida-motor-park-ogida-vi", 
-                              "Ogida-primary-school-ogida-i", "Ogida-primary-school-ogida-ii", 
-                              "Enina-nur-primary-school-ogida-i", "Enina-nur-primary-school-ogida-ii", 
-                              "Hopewell-group-of-sch-use", "Eweka-primary-school-use-i", 
-                              "Eweka-primary-school-use-ii", "Eweka-primary-school-use-iii", 
-                              "Eweka-primary-school-use-iv", "Eweka-primary-school-use-v", 
-                              "Use-town-hall-use", "Use-sec-school-use-i", "Use-sch-school-use-ii", 
-                              "Blessed-assurance-nur-primary-school"
+                              "Ogida-pry-sch-ogida-i", "Ogida-pry-sch-ogida-ii", 
+                              "Enina-nur-pry-sch-ogida-i", "Enina-nur-pry-sch-ogida-ii", 
+                              "Hopewell-group-of-sch-use", "Eweka-pry-sch-use-i", 
+                              "Eweka-pry-sch-use-ii", "Eweka-pry-sch-use-iii", 
+                              "Eweka-pry-sch-use-iv", "Eweka-pry-sch-use-v", 
+                              "Use-town-hall-use", "Use-sec-sch-use-i", "Use-sch-sch-use-ii", 
+                              "Blessed-assurance-nur-pry-sch"
             ]}]
         }]
       }]
@@ -298,12 +298,12 @@
                               "Eghosa-gram-sch-okhoro-i-iii", "Eghosa-gram-sch-okhoro-i-iv", 
                               "Eghosa-gram-sch-okhoro-i-v", "Eghosa-gram-sch-okhoro-i-vi", 
                               "Eghosa-gram-sch-okhoro-i-vii", "Eghosa-gram-sch-okhoro-i-viii", 
-                              "Ayela-uwangue-nur-pri-school-okhoro-ii-i", "Ayela-uwangue-nur-pri-school-okhoro-ii-ii", 
+                              "Ayela-uwangue-nur-pri-sch-okhoro-ii-i", "Ayela-uwangue-nur-pri-sch-okhoro-ii-ii", 
                               "Okhoro-livestock-okhoro-ii-i", "Okhoro-livestock-okhoro-ii-ii", 
                               "Okhoro-livestock-okhoro-ii-iii", "Okhoro-livestock-okhoro-ii-iv", 
                               "Okhoro-livestock-okhoro-ii-v", "Okhoro-police-station-okhoro-ii-i", 
                               "Okhoro-police-post-okhoro-ii-ii", "Okhoro-police-post-okhoro-ii-iii", 
-                              "Okhoro-primary-school-okhoro-ii-i", "Okhoro-primary-school-okhoro-ii-ii"
+                              "Okhoro-pry-sch-okhoro-ii-i", "Okhoro-pry-sch-okhoro-ii-ii"
             ]}]
         }]
       }]
@@ -318,13 +318,13 @@
       "Egor":[{
         "Ward":[{
           "Oliha":[{
-            "PollingUnit": [ "Aunty-maria-nur-primary-school-oliha-i", "Aunty-maria-nur-primary-school-oliha-ii", 
-                              "Aunty-maria-nur-primary-school-oliha-iii", "Aunty-maria-nur-primary-school-oliha-iv", 
-                              "Aunty-maria-nur-primary-school-oliha-v", "Abraka-standard-nur-school-oliha-vi", 
-                              "Abraka-standard-nur-school-oliha-vii", "Oronmiyan-primary-school-oliha-i", 
-                              "Oronmiyan-primary-school-oliha-ii", "Jossy-wisdom-nur-primary-school-oliha-i", 
-                              "Jossy-wisdom-nur-primary-school-oliha-ii", "Jossy-wisdom-nur-primary-school-oliha-iii", 
-                              "Nightingale-nur-primary-school-oliha-i", "Nightingale-nur-primary-school-oliha-ii"
+            "PollingUnit": [ "Aunty-maria-nur-pry-sch-oliha-i", "Aunty-maria-nur-pry-sch-oliha-ii", 
+                              "Aunty-maria-nur-pry-sch-oliha-iii", "Aunty-maria-nur-pry-sch-oliha-iv", 
+                              "Aunty-maria-nur-pry-sch-oliha-v", "Abraka-standard-nur-sch-oliha-vi", 
+                              "Abraka-standard-nur-sch-oliha-vii", "Oronmiyan-pry-sch-oliha-i", 
+                              "Oronmiyan-pry-sch-oliha-ii", "Jossy-wisdom-nur-pry-sch-oliha-i", 
+                              "Jossy-wisdom-nur-pry-sch-oliha-ii", "Jossy-wisdom-nur-pry-sch-oliha-iii", 
+                              "Nightingale-nur-pry-sch-oliha-i", "Nightingale-nur-pry-sch-oliha-ii"
             ]}]
         }]
       }]
@@ -340,14 +340,14 @@
         "Ward":[{
           "Otubu":[{
             "PollingUnit": [ "Asoro-gram-sch-evbuotubu-i", "Asoro-gram-sch-evbuotubu-ii", 
-                              "Evbuotubu-sec-school", "Evbuotubu-sc-scho0l-evbuotubu", 
-                              "Omo-nusery-primary-school-evbuotubu-i", "Omo-nursery-primary-school-evbuotubu-ii", 
-                              "Evbuotubu-primary-school-evbuotubu-i", "Evbuotubu-primary-school-evbuotubu-ii", 
+                              "Evbuotubu-sec-sch", "Evbuotubu-sc-scho0l-evbuotubu", 
+                              "Omo-nusery-pry-sch-evbuotubu-i", "Omo-nursery-pry-sch-evbuotubu-ii", 
+                              "Evbuotubu-pry-sch-evbuotubu-i", "Evbuotubu-pry-sch-evbuotubu-ii", 
                               "Evbuotubu-town-hall-evbuotubu-i", "Evbuotubu-town-hall-evbuotubu-ii", 
-                              "Evbuotubu-health-centre-evbuotubu", "Aruosa-primary-school-evbuotubu-i", 
-                              "Aruosa-primary-school-evbuotubu-ii", "Urumwon-primary-school-evbuotubu-i", 
-                              "Urumwon-primary-school-evbuotubu-ii", "Ugbikhoko-primary-school-evbuotubu", 
-                              "Ogbomwan-primary-school-evbuotubu"
+                              "Evbuotubu-health-centre-evbuotubu", "Aruosa-pry-sch-evbuotubu-i", 
+                              "Aruosa-pry-sch-evbuotubu-ii", "Urumwon-pry-sch-evbuotubu-i", 
+                              "Urumwon-pry-sch-evbuotubu-ii", "Ugbikhoko-pry-sch-evbuotubu", 
+                              "Ogbomwan-pry-sch-evbuotubu"
             ]}]
         }]
       }]
@@ -364,15 +364,15 @@
         "Ward":[{
           "Uselu-i":[{
             "PollingUnit": [ "Uselu-town-hall-uselu-i-i", "Uselu-town-hall-uselu-i-ii",
-                              "Olua-primary-school-uselu-i-i", "Olua-primary-school-uselu-i-ii",
-                              "Olua-primary-school-uselu-i-iii", "Olua-primary-school-uselu-i-iv",
-                              "Olua-primary-school-uselu-i-v", "Olua-primary-school-uselu-i-vi",
-                              "Olua-primary-school-uselu-i-vii", "Olua-primary-school-uselu-i-viii",
+                              "Olua-pry-sch-uselu-i-i", "Olua-pry-sch-uselu-i-ii",
+                              "Olua-pry-sch-uselu-i-iii", "Olua-pry-sch-uselu-i-iv",
+                              "Olua-pry-sch-uselu-i-v", "Olua-pry-sch-uselu-i-vi",
+                              "Olua-pry-sch-uselu-i-vii", "Olua-pry-sch-uselu-i-viii",
                               "Uselu-motor-park-uselu-i-i", "Uselu-motor-park-uselu-i-ii",
                               "Fed-road-public-field-uselu-ii-i", "Fed-road-public-field-uselu-ii-ii",
                               "Fed-road-public-field-uselu-ii-iii", "Fed-road-public-field-uselu-ii-iv",
-                              "Paramount-nur-primary-school-uselu-ii-i", "Paramount-nur-primary-school-uselu-ii-ii",
-                              "Paramount-nur-primary-school-uselu-ii-iii"
+                              "Paramount-nur-pry-sch-uselu-ii-i", "Paramount-nur-pry-sch-uselu-ii-ii",
+                              "Paramount-nur-pry-sch-uselu-ii-iii"
             ]}]
         }]
       }]
@@ -392,8 +392,8 @@
                               "Benin-technical-college-ugbowo-i", "Iyoba-college-ugbowo-i-i", 
                               "Iyoba-college-ugbowo-i-ii", "Iyoba-college-ugbowo-i-iii", 
                               "Eweka-gram-sch-ugbowo-i-i", "Eweka-gram-sch-ugbowo-i-ii", 
-                              "Ugbowo-primary-sch-ugbowo-ii-i", "Ugbowo-primary-sch-ugbowo-ii-ii", 
-                              "Ugbowo-primary-sch-ugbowo-ii-iii", "Ugbowo-primary-sch-ugbowo-ii-iv", 
+                              "Ugbowo-pry-sch-ugbowo-ii-i", "Ugbowo-pry-sch-ugbowo-ii-ii", 
+                              "Ugbowo-pry-sch-ugbowo-ii-iii", "Ugbowo-pry-sch-ugbowo-ii-iv", 
                               "Adolor-college-ugbowo-ii-i", "Adolor-college-ugbowo-ii-ii", 
                               "Adolor-college-ugbowo-ii-iii", "Adolor-college-ugbowo", 
                               "Adolor-college-ugbowo-ii-iv", "Ohonre-gram-sch-ugbowo-ii-i", 
@@ -416,15 +416,15 @@
         "Ward":[{
           "Uselu-ii":[{
             "PollingUnit": [
-              "Uselu-sec-school-uselu-ii-i", "Uselu-sec-school-uselu-ii-ii",
-              "Uselu-sec-school-uselu-ii-iii", "Uselu-sec-school-uselu-ii-iv",
-              "Uselu-sec-school-uselu-ii-v", "Uselu-sec-school-uselu-ii-vi",
-              "Uselu-sec-school-uselu-ii-vii", "Golden-touch-sec-sch-edaiken-i",
+              "Uselu-sec-sch-uselu-ii-i", "Uselu-sec-sch-uselu-ii-ii",
+              "Uselu-sec-sch-uselu-ii-iii", "Uselu-sec-sch-uselu-ii-iv",
+              "Uselu-sec-sch-uselu-ii-v", "Uselu-sec-sch-uselu-ii-vi",
+              "Uselu-sec-sch-uselu-ii-vii", "Golden-touch-sec-sch-edaiken-i",
               "Golden-touch-sec-sch-edaiken-ii", "Golden-touch-sec-sch-edaiken-iii",
-              "Golden-touch-sec-sch-edaiken-iv", "Edaiken-primary-school-edaiken-v",
-              "Edaiken-primary-school-edaiken-i", "Edaiken-primary-school-edaiken-ii",
-              "Edaiken-primary-school-edaiken-iii", "Edaiken-primary-school-edaiken-iv",
-              "Edaiken-primary-school-edaiken-v", "Universal-comm-hall-public-field-edaiken-i",
+              "Golden-touch-sec-sch-edaiken-iv", "Edaiken-pry-sch-edaiken-v",
+              "Edaiken-pry-sch-edaiken-i", "Edaiken-pry-sch-edaiken-ii",
+              "Edaiken-pry-sch-edaiken-iii", "Edaiken-pry-sch-edaiken-iv",
+              "Edaiken-pry-sch-edaiken-v", "Universal-comm-hall-public-field-edaiken-i",
               "Universal-comm-hall-public-field-edaiken-ii"
             ]
           }
@@ -444,9 +444,9 @@
         "Ward":[{
           "Uwelu":[{
             "PollingUnit": [
-                "Amegor-primary-sch-uwelu-i",
-                "Amegor-primary-sch-uwelu-ii",
-                "Amegor-primary-sch-uwelu-iii",
+                "Amegor-pry-sch-uwelu-i",
+                "Amegor-pry-sch-uwelu-ii",
+                "Amegor-pry-sch-uwelu-iii",
                 "Uwelu-sec-sch-uwelu-i",
                 "Uwelu-sec-sch-uwelu-ii",
                 "Uwelu-sec-sch-uwelu",
@@ -482,7 +482,7 @@
                     "Ehanlen-pry-sch-ehanlen-ii",
                     "Ehanlen-pry-sch-ehanlen-iii",
                     "Egbor-camp-egbor",
-                    "Eko-pry-school-eko"
+                    "Eko-pry-sch-eko"
                 ]
             }
         }
@@ -589,14 +589,14 @@
                     "Eguare-pry-sch-eguare-i",
                     "Eguare-pry-sch-eguare-ii",
                     "Eguare-pry-sch-eguare-iii",
-                    "Usenu-pry-school-usenu",
+                    "Usenu-pry-sch-usenu",
                     "Ididigba-pry-sch-ididigba-i",
                     "Ididigba-pry-sch-ididigba-ii",
                     "Open-space-momodu-road-by-agwa-junction",
                     "Annunciation-catholic-college-irrua",
                     "Open-space-irrua-market-by-momodu-road",
                     "Open-space-irrua-market-by-abdumaliki-street",
-                    "Model-primary-health-center-irrua",
+                    "Model-pry-health-center-irrua",
                     "Irrua-post-office",
                     "Usenu-comm-hall-usenu"
                 ]
@@ -663,7 +663,7 @@
                     "Health-center-ugbegun",
                     "Ebudin-grammar-sch",
                     "Ebudin-health-centre",
-                    "Odogbe-primary-sch-odogbe"
+                    "Odogbe-pry-sch-odogbe"
                 ]
             }
         }
@@ -682,16 +682,16 @@
         "Ward": {
             "Uneah": {
                 "PollingUnit": [
-                    "Ibore-primary-school-ibore-i",
-                    "Ibore-primary-school-ibore-ii",
-                    "Ibore-primary-school-ibore-iii",
-                    "Ibore-primary-school-ibore-iv",
-                    "Ugbalo-primary-school-ugbalo",
-                    "Atuagbo-primary-school-atuagbo",
+                    "Ibore-pry-sch-ibore-i",
+                    "Ibore-pry-sch-ibore-ii",
+                    "Ibore-pry-sch-ibore-iii",
+                    "Ibore-pry-sch-ibore-iv",
+                    "Ugbalo-pry-sch-ugbalo",
+                    "Atuagbo-pry-sch-atuagbo",
                     "Assemblies-of-god-miss-sch-atuagbo-i",
                     "Assemblies-of-god-miss-sch-atuagbo-ii",
                     "Okhoromi-vill-square-eko-guanlan",
-                    "Ekilor-primary-school-ekilor",
+                    "Ekilor-pry-sch-ekilor",
                     "Water-board-ikekhalia-ibore",
                     "Open-space-ibore-town-hall"
                 ]
@@ -814,7 +814,7 @@
                     "Uromi-uzenema-pry-sch-ii",
                     "Uromi-uzenema-pry-sch-iii",
                     "Uromi-uzenema-pry-sch-iv",
-                    "Arue-secondary-school",
+                    "Arue-secondary-sch",
                     "Arue-market-square",
                     "Open-space-by-okogbeni-junction-arue"
                 ]
