@@ -1,0 +1,54 @@
+{
+  "ElectionCategory": {
+    "PresidentialElection2023": [
+      { "Party": "AllProgressivesCongress-APC", "Candidate": "Bola-Tinubu" },
+      { "Party": "PeoplesDemocraticParty-PDP", "Candidate": "Atiku-Abubakar" },
+      { "Party": "LabourParty-LP", "Candidate": "Peter-Obi" },
+      { "Party": "NewNigeriaPeoplesParty-NNPP", "Candidate": "Rabiu-Kwankwaso" },
+      { "Party": "AfricanActionCongress-AAC", "Candidate": "Omoyele-Sowore" },
+      { "Party": "SocialDemocraticParty-SDP", "Candidate": "Adebayo-Adewole" },
+      { "Party": "PeoplesRedemptionParty-PRP", "Candidate": "Kola-Abiola" },
+      { "Party": "AccordParty-AP", "Candidate": "Christopher-Imumolen" },
+      { "Party": "AfricanDemocraticCongress-ADC", "Candidate": "Dumebi-Kachikwu" }
+    ],
+    "Gubernatorial": {
+      "Edo": [
+        { "Party": "AccordParty-AP", "Candidate": "Iyere-Kennedy" },
+        { "Party": "ActionAlliance-AA", "Candidate": "Uwaifo-Osaro" },
+        { "Party": "ActionDemocraticParty-ADP", "Candidate": "Akhime-Kingson-Afere" },
+        { "Party": "AfricanActionCongress-AAC", "Candidate": "Udoh-Obersifo-David" },
+        { "Party": "AfricanDemocraticCongress-ADC", "Candidate": "Obazele-Paul-Agbone" },
+        { "Party": "AllPeopleMovement-APM", "Candidate": "Ugiagbe-Odaro-Sylvester" },
+        { "Party": "AllPeoplesParty-APP", "Candidate": "Areleogbe-Amos-Osalumese" },
+        { "Party": "AllProgressivesCongress-APC", "Candidate": "Okpebholo-Monday" },
+        { "Party": "AllProgressivesGrandAlliance-APGA", "Candidate": "Osifo-Isiah" },
+        { "Party": "BootParty-BP", "Candidate": "Osirame-Edeipo" },
+        { "Party": "LabourParty-LP", "Candidate": "Olumide-Akpata-Anthony" },
+        { "Party": "NewNigeriaPeoplesParty-NNPP", "Candidate": "Azena-Azemhe-Friday" },
+        { "Party": "PeoplesDemocraticParty-PDP", "Candidate": "Ighodalo-Asuerinme" },
+        { "Party": "PeoplesRedemptionParty-PRP", "Candidate": "Key-Patience-Ndidi" },
+        { "Party": "SocialDemocraticParty-SDP", "Candidate": "Aner-Abdullai-Aliu" },
+        { "Party": "YoungProgressiveParty-YPP", "Candidate": "Okungbowa-Paul-Ovbokhan" },
+        { "Party": "ZenithLabourParty-ZLP", "Candidate": "Akhalamhe-Amiemenoghena" }
+      ],
+      "Ondo": [
+        { "Party": "AllProgressivesCongress-APC", "Candidate": "Lucky-Aiyedatiwa" },
+        { "Party": "PeoplesDemocraticParty-PDP", "Candidate": "Agboola-Ajayi" },
+        { "Party": "AccordParty-AP", "Candidate": "Ajibola-Falaiye" },
+        { "Party": "ActionAlliance-AA", "Candidate": "Omolere-Akinuli" },
+        { "Party": "AfricanActionCongress-AAC", "Candidate": "Oluwaseyi-Ajayi" },
+        { "Party": "AllProgressivesGrandAlliance-APGA", "Candidate": "Olatunji-Popoola" },
+        { "Party": "AlliedPeoplesMovement-APM", "Candidate": "Isaac-Ogunfeyimi" },
+        { "Party": "ActionPeoplesParty-APP", "Candidate": "Babatunde-Fadoju" },
+        { "Party": "AfricanDemocraticCongress-ADC", "Candidate": "Adeyemi-Nejo" },
+        { "Party": "LabourParty-LP", "Candidate": "Ayodele-Olorunfemi" },
+        { "Party": "NewNigeriaPeoplesParty-NNPP", "Candidate": "Oluwatosin-Ayeni" },
+        { "Party": "PeoplesRedemptionParty-PRP", "Candidate": "Babatunde-Alli" },
+        { "Party": "SocialDemocraticParty-SDP", "Candidate": "Olusegun-Oyebolu" },
+        { "Party": "YoungProgressiveParty-YPP", "Candidate": "Otitoloju-Akinmurele" },
+        { "Party": "YouthParty-YP", "Candidate": "Kehinde-Adegoke" },
+        { "Party": "ZenithLabourParty-ZLP", "Candidate": "Abbas-Mimiko" }
+      ]
+    }
+  }
+}
